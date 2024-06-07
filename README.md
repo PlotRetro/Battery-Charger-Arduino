@@ -4,8 +4,6 @@ Este é um projeto de um carregador de bateria de 9 volts utilizando Arduino e T
 
 ## Componentes Utilizados
 
-Aqui estão os componentes utilizados para montar o carregador de bateria de 9 volts:
-
 ### Arduino Uno R3
 
 ![Arduino Uno R3](https://github.com/PlotRetro/Battery-Charger-Arduino/blob/main/assets/images/Arduino_Uno_R3.PNG)
