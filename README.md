@@ -8,39 +8,39 @@ Aqui estão os componentes utilizados para montar o carregador de bateria de 9 v
 
 ### Arduino Uno R3
 
-![Arduino Uno R3](https://github.com/PlotRetro/Battery-Charger-Arduino/blob/assets/images/Arduino_Uno_R3.png)
+![Arduino Uno R3](https://github.com/PlotRetro/Battery-Charger-Arduino/blob/main/assets/images/Arduino_Uno_R3.png)
 
 ### Capacitor Polarizado
 
-![Capacitor Polarizado](https://github.com/PlotRetro/Battery-Charger-Arduino/blob/assets/images/Capacitor_Polarizado.png)
+![Capacitor Polarizado](https://github.com/PlotRetro/Battery-Charger-Arduino/blob/main/assets/images/Capacitor_Polarizado.png)
 
 ### Multímetro (Modo Tensão)
 
-![Multímetro](https://github.com/PlotRetro/Battery-Charger-Arduino/blob/assets/images/Multimetro.png)
+![Multímetro](https://github.com/PlotRetro/Battery-Charger-Arduino/blob/main/assets/images/Multimetro.png)
 
 ### Resistor
 
-![Resistor](https://github.com/PlotRetro/Battery-Charger-Arduino/blob/assets/images/Resistor.png)
+![Resistor](https://github.com/PlotRetro/Battery-Charger-Arduino/blob/main/assets/images/Resistor.png)
 
 ### LEDs
 
-![LEDs](https://github.com/PlotRetro/Battery-Charger-Arduino/blob/assets/images/LEDs.png)
+![LEDs](https://github.com/PlotRetro/Battery-Charger-Arduino/blob/main/assets/images/LEDs.png)
 
 ### Transistor PNP (BJT)
 
-![Transistor PNP](https://github.com/PlotRetro/Battery-Charger-Arduino/blob/assets/images/Transistor_PNP.png)
+![Transistor PNP](https://github.com/PlotRetro/Battery-Charger-Arduino/blob/main/assets/images/Transistor_PNP.png)
 
 ### Diodo Zener
 
-![Diodo Zener](https://github.com/PlotRetro/Battery-Charger-Arduino/blob/assets/images/Diodo_Zener.png)
+![Diodo Zener](https://github.com/PlotRetro/Battery-Charger-Arduino/blob/main/assets/images/Diodo_Zener.png)
 
 ### Fonte de Energia
 
-![Fonte de Energia](https://github.com/PlotRetro/Battery-Charger-Arduino/blob/assets/images/Fonte_Energia.png)
+![Fonte de Energia](https://github.com/PlotRetro/Battery-Charger-Arduino/blob/main/assets/images/Fonte_Energia.png)
 
 # O Circuito
 
-![Circuito](https://github.com/PlotRetro/Battery-Charger-Arduino/blob/assets/images/Circuito.png)
+![Circuito](https://github.com/PlotRetro/Battery-Charger-Arduino/blob/main/assets/images/Circuito.png)
 
 
 # Funcionamento do Circuito
