@@ -8,35 +8,35 @@ Aqui estão os componentes utilizados para montar o carregador de bateria de 9 v
 
 ### Arduino Uno R3
 
-![Arduino Uno R3](https://github.com/PlotRetro/Battery-Charger-Arduino/blob/main/assets/images/Arduino_Uno_R3.png)
+![Arduino Uno R3](https://github.com/PlotRetro/Battery-Charger-Arduino/blob/main/assets/images/Arduino_Uno_R3.PNG)
 
 ### Capacitor Polarizado
 
-![Capacitor Polarizado](https://github.com/PlotRetro/Battery-Charger-Arduino/blob/main/assets/images/Capacitor_Polarizado.png)
+![Capacitor Polarizado](https://github.com/PlotRetro/Battery-Charger-Arduino/blob/main/assets/images/Capacitor_Polarizado.PNG)
 
 ### Multímetro (Modo Tensão)
 
-![Multímetro](https://github.com/PlotRetro/Battery-Charger-Arduino/blob/main/assets/images/Multimetro.png)
+![Multímetro](https://github.com/PlotRetro/Battery-Charger-Arduino/blob/main/assets/images/Multimetro.PNG)
 
 ### Resistor
 
-![Resistor](https://github.com/PlotRetro/Battery-Charger-Arduino/blob/main/assets/images/Resistor.png)
+![Resistor](https://github.com/PlotRetro/Battery-Charger-Arduino/blob/main/assets/images/Resistor.PNG)
 
 ### LEDs
 
-![LEDs](https://github.com/PlotRetro/Battery-Charger-Arduino/blob/main/assets/images/LEDs.png)
+![LEDs](https://github.com/PlotRetro/Battery-Charger-Arduino/blob/main/assets/images/LEDs.PNG)
 
 ### Transistor PNP (BJT)
 
-![Transistor PNP](https://github.com/PlotRetro/Battery-Charger-Arduino/blob/main/assets/images/Transistor_PNP.png)
+![Transistor PNP](https://github.com/PlotRetro/Battery-Charger-Arduino/blob/main/assets/images/Transistor_PNP.PNG)
 
 ### Diodo Zener
 
-![Diodo Zener](https://github.com/PlotRetro/Battery-Charger-Arduino/blob/main/assets/images/Diodo_Zener.png)
+![Diodo Zener](https://github.com/PlotRetro/Battery-Charger-Arduino/blob/main/assets/images/Diodo_Zener.PNG)
 
 ### Fonte de Energia
 
-![Fonte de Energia](https://github.com/PlotRetro/Battery-Charger-Arduino/blob/main/assets/images/Fonte_Energia.png)
+![Fonte de Energia](https://github.com/PlotRetro/Battery-Charger-Arduino/blob/main/assets/images/Fonte_Energia.PNG)
 
 # O Circuito
 
