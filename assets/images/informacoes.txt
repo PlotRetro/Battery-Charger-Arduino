@@ -1,0 +1,18 @@
+# Informações das Imagens
+
+## Componentes Utilizados
+
+- Arduino Uno R3: Imagem do Arduino Uno R3 utilizado no projeto.
+- Capacitor Polarizado: Imagem do capacitor polarizado utilizado no circuito.
+- Multímetro (Modo Tensão): Imagem do multímetro utilizado para monitorar a tensão.
+- Resistor: Imagem do resistor utilizado no circuito.
+- LEDs: Imagem dos LEDs utilizados para indicar o estado da carga.
+- Transistor PNP (BJT): Imagem do transistor PNP utilizado no circuito.
+- Diodo Zener: Imagem do diodo Zener utilizado no circuito.
+- Fonte de Energia: Imagem da fonte de energia utilizada para alimentar o circuito.
+
+## Circuito
+
+- Circuito: Imagem do circuito completo montado no Tinkercad.
+
+Todas as imagens foram capturadas diretamente do Tinkercad durante a simulação do circuito.
