@@ -46,7 +46,7 @@ Este é um projeto de um carregador de bateria de 9 volts utilizando Arduino e T
 - **Fonte de Energia:** Fornece a corrente de 12V para carregar a bateria. Inclui um diodo para evitar retorno de corrente e um resistor para reduzir a tensão para 7.5V.
 - **Diodo:** Protege a fonte contra a inversão de corrente.
 - **Resistor:** Reduz a tensão da fonte de 12V para 7.5V e controla a velocidade de carga, dependendo da porcentagem do multímetro.
-- **Botão:** Liga e desliga o circuito.
+- **Interruptor:** Liga e desliga o circuito.
 - **Capacitor:** Funciona como a bateria do circuito.
 - **Multímetro:** Monitora a carga do capacitor (bateria).
 - **Arduino:** Monitora a tensão do multímetro para indicar o estado de carga do capacitor.
