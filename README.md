@@ -1,7 +1,7 @@
 # Projeto de Física II: Carregador de Bateria com Arduino e Tinkercad
 Este é um projeto de um carregador de bateria de 9 volts utilizando Arduino e Tinkercad. O circuito controla a carga da bateria, interrompendo-a quando estiver totalmente carregada.
 
-
+---
 ## Componentes Utilizados
 
 ### Arduino Uno R3
@@ -40,7 +40,7 @@ Este é um projeto de um carregador de bateria de 9 volts utilizando Arduino e T
 
 ![Circuito](https://github.com/PlotRetro/Battery-Charger-Arduino/blob/main/assets/images/Circuito.jpg)
 
-
+---
 # Funcionamento do Circuito
 
 - **Fonte de Energia:** Fornece a corrente de 12V para carregar a bateria. Inclui um diodo para evitar retorno de corrente e um resistor para reduzir a tensão para 7.5V.
@@ -51,11 +51,13 @@ Este é um projeto de um carregador de bateria de 9 volts utilizando Arduino e T
 - **Multímetro:** Monitora a carga do capacitor (bateria).
 - **Arduino:** Monitora a tensão do multímetro para indicar o estado de carga do capacitor.
 - **LEDs:** Indicam o estado da carga do capacitor:
-  - **LED Laranja:** Indica que a bateria está carregando.
-  - **LED Verde:** Indica que a bateria está carregada.
+  - 🔶 **LED Laranja:** Indica que a bateria está carregando.
+  - 🟢 **LED Verde:** Indica que a bateria está carregada.
 - **Resistores (220 ohms):** Protegem os LEDs contra sobrecarga para evitar danos.
 
 O resistor adicional na perna positiva da fonte controla a velocidade de carga, permitindo maior velocidade de carga conforme a porcentagem de carga medida pelo multímetro aumenta.
+
+---
 
 ## O Código no Arduíno
 
@@ -81,6 +83,7 @@ void loop() {
   }
 }
 ```
+---
 
 # Colaboradores
 
