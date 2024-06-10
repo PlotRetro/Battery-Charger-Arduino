@@ -137,6 +137,15 @@ Parabéns! Você montou com sucesso o carregador de bateria utilizando Arduino e
 - Carlos Augusto ([carlosaugusto007](https://github.com/carlosaugusto007))
 
 ---
+# Links do circuitos no TinkerCad 
+
+Circuito do projeto (funcional) :
+https://www.tinkercad.com/things/8IQl2ACAptK-smashing-luulia/editel?sharecode=enSikqyTxTC13He-DLshAYLHZry3WM0tuvKwUMCJNb0
+
+Circuito do projeto atual exposto no repositório:
+https://www.tinkercad.com/things/3lhBGFLUoji-grand-maimu-esboo/editel?sharecode=7WTERRqFgM5ewhXBJfzvT_80TBK6xNbGJa7TuH4_OJM
+
+---
 
 Obrigado por visualizar nosso projeto! Esperamos que tenha encontrado todas as informações necessárias para entender e reproduzir o carregador de bateria de 9 volts utilizando Arduino e Tinkercad. Se tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato.
 
