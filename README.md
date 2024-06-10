@@ -26,7 +26,7 @@ Este é um projeto de um carregador de bateria de 9 volts utilizando Arduino e T
 
 ### Interruptor
 
-![Interruptor](https://github.com/PlotRetro/Battery-Charger-Arduino/blob/main/assets/images/Interruptor.PNG)
+![Interruptor](https://github.com/PlotRetro/Battery-Charger-Arduino/blob/main/assets/images/Interruptor.jpg)
 
 ### Diodo Zener
 
@@ -38,7 +38,7 @@ Este é um projeto de um carregador de bateria de 9 volts utilizando Arduino e T
 
 # O Circuito
 
-![Circuito](https://github.com/PlotRetro/Battery-Charger-Arduino/blob/main/assets/images/Circuito.png)
+![Circuito](https://github.com/PlotRetro/Battery-Charger-Arduino/blob/main/assets/images/Circuito.jpg)
 
 
 # Funcionamento do Circuito
